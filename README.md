@@ -1,6 +1,6 @@
 # Judul Project
 
-*Tujuan project (tugas hacktiv8 atau project pribadi)>*
+*Tujuan project (tugas hacktiv8 atau project pribadi)*
 
 ## Repository Outline
 `Bagian ini menjelaskan secara singkat konten/isi dari file yang dipush ke repository`
